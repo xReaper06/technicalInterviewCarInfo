@@ -37,3 +37,4 @@ npm run build
 ```sh
 npm run test:unit
 ```
+### the Exam Part is in The Technical Interview part on my Nav
